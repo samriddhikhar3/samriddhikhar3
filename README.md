@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi, I'm Sam 👋
 
+I am an data analyst, urban planner, and map enthusiast. I am passionate about using my data and design skills to leverage urban data for building equitable and sustainable cities.
+
+I currently work as a researcher at [Penn Praxis]([url](https://praxis.upenn.edu/)), developing web-based geospatial tools for community-engaged planning. I am also an experienced consultant, developing statistical models to estimate economic and fiscal impacts of transit projects, housing, and urban green infrastructure supporting dozens of nationwide agencies. I have also worked under Professor Akira Drake Rodriguez to study Philadelphia schools’ vulnerability to closure using spatial analysis.
+
+I work mostly in R, ArcGIS and Python, as well as many transit modeling and raster analysis platforms. I’ve also authored numerous policy memos and reports for heads of private and city/state institutions. I use these tools and Adobe Creative Suite to tell stories through data.
+
+I am a Master of City Planning graduate from the University of Pennsylvania, with a Bachelors in Architecture from the Visvesvarya National Institute of Technology, India.
 <!--
 **samriddhikhar3/samriddhikhar3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
