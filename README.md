@@ -8,6 +8,8 @@
 
 🔭 I’m currently working on the [North Philly: A Black Freedom Jawn with Penn Praxis. ](https://storymaps.arcgis.com/stories/65d2396a7d2f4ae393bf5eb394d43e08)
 
+🕵️‍♀️ Learn more about me at my [portfolio.](https://samriddhikhar3.github.io/)
+
 📫 [Get in touch](https://www.linkedin.com/in/samriddhi-khare-3668821b1/)
 
 
